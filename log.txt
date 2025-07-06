@@ -21,3 +21,4 @@ Update README
 Enhance UI
 Fix typos
 Update dependencies
+Clean up code
