@@ -16,3 +16,4 @@ Fix bugs
 Update styles
 Improve performance
 Refactor code
+Add new feature
